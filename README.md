@@ -1,3 +1,3 @@
 <h1>Hello Folks</h1>
-![Heyy](https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif)
+![Cat](https://raw.githubusercontent.com/Vanshikapandey30/Vanshikapandey30/main/assets/img/cat.png)
 
