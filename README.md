@@ -20,6 +20,7 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/></a>
 <a href="https://pugjs.org/api/getting-started.html"><img src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png" width=48></a>
 <a href="https://handlebarsjs.com/"><img src="https://cdn.freebiesupply.com/logos/thumbs/1x/handlebars-logo.png" width=48></a>
+<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 </div>
 <br><hr><br>
 
