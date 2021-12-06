@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanki92&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br><br><br><hr>
 ### 🔗 Connect with me:
-<a href="https://www.instagram.com/sankalpt_92/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://www.instagram.com/sankalpt92/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://www.linkedin.com/in/sankalp-tripathi-53b7b61b5/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://twitter.com/Sankalpt_92"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href="https://www.facebook.com/profile.php?id=100074140925075"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png"/></a>
