@@ -5,7 +5,6 @@
 
 ### 🙋‍♂️ About Me
 > * ###### I'm Currently Learning ***MongoDB Database***
-> * ###### I'm a ***Highschool Student*** 
 > * ###### I'm looking to Collaborate on ***Opensource Projects***
 > * ###### How to reach me [***sankalpt92@gmail.com***](mailto:sankalpt92@gmail.com)
 <br><br>
