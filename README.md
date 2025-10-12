@@ -1,23 +1,157 @@
-# 💫 About Me:
-🌐 Full-stack explorer, from frontend constellations to backend black holes.<br>💡 Always on the lookout for innovative solutions and cutting-edge technologies.<br>📚 Lifelong learner: my favorite book is the API documentation.
+```
+    _____ ___    _   ______ __ _____  ___ 
+   / ___//   |  / | / / __ /  _/ __ \|__ \
+   \__ \/ /| | /  |/ / / / // // /_/ /__/ /
+  ___/ / ___ |/ /|  / /_/ // / \__, / __/  
+ /____/_/  |_/_/ |_/\____/___//____/____/  
+                                            
+ ═══════════════════════════════════════════
+   Developer | Exploring Go & Distributed Systems
+ ═══════════════════════════════════════════
+```
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sankalp-tripathi-53b7b61b5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sankalpt921) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=Building+scalable+systems;Exploring+Go+%26+Distributed+Computing;Learning+system+design+patterns;Open+to+collaborations)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=plastic&logo=pug&logoColor=A86454) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5.js&logoColor=FFFFFF) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanki92&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanki92&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanki92&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+```console
+sanki92@github:~$ whoami
+Developer exploring Go and distributed systems
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+sanki92@github:~$ neofetch
+                     OS: GitHub
+                   Host: sanki92
+                 Kernel: Developer
+                 Uptime: Since 2020
+               Packages: 50+ repos
+                  Shell: bash
+             Resolution: 1920x1080@∞Hz
+                     DE: VS Code
+                   Font: JetBrains Mono
+                  Theme: Dark Mode [Terminal]
+
+sanki92@github:~$ cat expertise.txt
+├── Languages
+│   ├── Go (Exploring)
+│   ├── TypeScript/JavaScript
+│   ├── Java
+│   └── C/C++
+│
+├── Backend & Systems
+│   ├── Distributed Systems (Learning)
+│   ├── Microservices
+│   ├── Real-time Systems (Socket.io)
+│   └── API Development
+│
+├── Databases & Caching
+│   ├── PostgreSQL
+│   ├── MySQL
+│   ├── Redis
+│   └── CockroachDB
+│
+└── Frontend & Tooling
+    ├── React/Next.js/React Native
+    ├── Three.js
+    └── Modern Build Tools (Vite, Bun)
+
+sanki92@github:~$ ./skill_levels.sh
+
+[████████████████████] 85% TypeScript/JavaScript
+[███████████████░░░░░] 75% React/Next.js
+[██████████░░░░░░░░░░] 50% Go
+[████████░░░░░░░░░░░░] 40% Distributed Systems
+[███████████░░░░░░░░░] 55% PostgreSQL/Redis
+
+sanki92@github:~$ ls current_focus/
+go_fundamentals.md  distributed_patterns.md  system_design.md
+
+sanki92@github:~$ ./get_stats.sh
+```
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sanki92&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanki92&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanki92&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41)
+
+</div>
+
+```console
+sanki92@github:~$ cat contribution_graph.log
+```
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/sanki92/sanki92/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+```console
+sanki92@github:~$ git log --oneline -10
+```
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+```console
+sanki92@github:~$ cat achievements.txt
+```
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/sanki92)](https://holopin.io/@sanki92)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanki92&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+```console
+sanki92@github:~$ cat contact.sh
+#!/bin/bash
+
+declare -A contacts=(
+    ["email"]="sankalpt92@gmail.com"
+    ["linkedin"]="linkedin.com/in/sankalp-tripathi-53b7b61b5"
+    ["instagram"]="@codingsmurfs"
+)
+
+for platform in "${!contacts[@]}"; do
+    echo "[$platform] ${contacts[$platform]}"
+done
+
+sanki92@github:~$ fortune
+"First, solve the problem. Then, write the code." - John Johnson
+
+sanki92@github:~$ cowsay "Always learning, always building"
+ ___________________________________
+< Always learning, always building >
+ -----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+sanki92@github:~$ cat /etc/motd
+"Talk is cheap. Show me the code." - Linus Torvalds
+
+sanki92@github:~$ echo "Want to see this in your terminal?"
+# Run this command:
+npx sanki92
+
+sanki92@github:~$ █
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanki92&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=sanki92&color=00ff41&style=flat-square&label=VISITORS)
+
+**System Status:** `ONLINE` | **Last Commit:** `Recently Active` | **Mode:** `Building`
+
+</div>
