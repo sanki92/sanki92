@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 180" width="1100" height="180">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .ascii {
+        font-family: 'Courier New', 'Courier', monospace;
+        font-size: 13px;
+        fill: #ff0000;
+        white-space: pre;
+        letter-spacing: 0;
+      }
+    </style>
+  </defs>
+  
+  <rect width="1100" height="180" fill="#0d1117"/>
+  
+  <text x="20" y="25" class="ascii" filter="url(#glow)" xml:space="preserve">
+    <tspan x="20" dy="0">   ▄█████████    ▄█    █▄       ▄████████ ███▄▄▄▄      ▄█   ▄█▄    ▄██   ▄   </tspan>
+    <tspan x="20" dy="15">  ███    ███   ███    ███     ███    ███ ███▀▀▀██▄   ███ ▄███▀    ███   ██▄ </tspan>
+    <tspan x="20" dy="15">  ███    █▀    ███    ███     ███    ███ ███   ███   ███▐██▀      ███▄▄▄███ </tspan>
+    <tspan x="20" dy="15">  ███         ▄███▄▄▄▄███▄▄   ███    ███ ███   ███  ▄█████▀       ▀▀▀▀▀▀███ </tspan>
+    <tspan x="20" dy="15">▀███████████ ▀▀███▀▀▀▀███▀  ▀███████████ ███   ███ ▀▀█████▄      ▄██    ███ </tspan>
+    <tspan x="20" dy="15">         ███   ███    ███     ███    ███ ███   ███   ███▐██▄     ███    ███ </tspan>
+    <tspan x="20" dy="15">   ▄█    ███   ███    ███     ███    ███ ███   ███   ███ ▀███▄   ███    ███ </tspan>
+    <tspan x="20" dy="15"> ▄████████▀    ███    █▀      ███    █▀   ▀█   █▀    ███   ▀█▀    ▀█████▀  </tspan>
+    <tspan x="20" dy="15">                                                     ▀                     </tspan>
+  </text>
+</svg>
