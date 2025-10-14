@@ -11,7 +11,7 @@
       .ascii {
         font-family: 'Courier New', 'Courier', monospace;
         font-size: 13px;
-        fill: #ff0000;
+        fill: #00FF41;
         white-space: pre;
         letter-spacing: 0;
       }
