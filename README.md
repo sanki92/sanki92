@@ -87,11 +87,11 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/shradha-khapra/ApnaCollege-Alpha/issues/39) in [shradha-khapra/ApnaCollege-Alpha](https://github.com/shradha-khapra/ApnaCollege-Alpha)
-2. 🗣 Commented on [#263](https://github.com/tofuutils/tenv/issues/263#issuecomment-3369322238) in [tofuutils/tenv](https://github.com/tofuutils/tenv)
-3. 🗣 Commented on [#13663](https://github.com/meteor/meteor/issues/13663#issuecomment-3369276435) in [meteor/meteor](https://github.com/meteor/meteor)
-4. 🗣 Commented on [#13922](https://github.com/meteor/meteor/issues/13922#issuecomment-3369275227) in [meteor/meteor](https://github.com/meteor/meteor)
-5. 🗣 Commented on [#653](https://github.com/helm-unittest/helm-unittest/issues/653#issuecomment-3369081097) in [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest)
+1. 🗣 Commented on [#3786](https://github.com/markedjs/marked/pull/3786#issuecomment-3404341225) in [markedjs/marked](https://github.com/markedjs/marked)
+2. 🗣 Commented on [#13962](https://github.com/meteor/meteor/pull/13962#issuecomment-3398766166) in [meteor/meteor](https://github.com/meteor/meteor)
+3. 🗣 Commented on [#3786](https://github.com/markedjs/marked/pull/3786#issuecomment-3393971213) in [markedjs/marked](https://github.com/markedjs/marked)
+4. 🗣 Commented on [#13962](https://github.com/meteor/meteor/pull/13962#issuecomment-3392983631) in [meteor/meteor](https://github.com/meteor/meteor)
+5. 🗣 Commented on [#3786](https://github.com/markedjs/marked/pull/3786#issuecomment-3392981767) in [markedjs/marked](https://github.com/markedjs/marked)
 <!--END_SECTION:activity-->
 
 ```console
