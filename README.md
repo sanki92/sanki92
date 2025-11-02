@@ -87,11 +87,11 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156078](https://github.com/cockroachdb/cockroach/issues/156078#issuecomment-3477522347) in [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
-2. 💪 Opened PR [#156729](undefined) in [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
-3. 🗣 Commented on [#3786](https://github.com/markedjs/marked/pull/3786#issuecomment-3404341225) in [markedjs/marked](https://github.com/markedjs/marked)
-4. 🗣 Commented on [#13962](https://github.com/meteor/meteor/pull/13962#issuecomment-3398766166) in [meteor/meteor](https://github.com/meteor/meteor)
-5. 🗣 Commented on [#3786](https://github.com/markedjs/marked/pull/3786#issuecomment-3393971213) in [markedjs/marked](https://github.com/markedjs/marked)
+1. 🗣 Commented on [#5036](https://github.com/JanDeDobbeleer/oh-my-posh/issues/5036#issuecomment-3477833906) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+2. 💪 Opened PR [#6938](undefined) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+3. 🗣 Commented on [#156078](https://github.com/cockroachdb/cockroach/issues/156078#issuecomment-3477522347) in [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
+4. 💪 Opened PR [#156729](undefined) in [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
+5. 🗣 Commented on [#3786](https://github.com/markedjs/marked/pull/3786#issuecomment-3404341225) in [markedjs/marked](https://github.com/markedjs/marked)
 <!--END_SECTION:activity-->
 
 ```console
