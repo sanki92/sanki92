@@ -87,11 +87,11 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9432](undefined) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-2. 💪 Opened PR [#9432](undefined) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+1. ❌ Closed PR [#9432](https://github.com/stdlib-js/stdlib/pull/9432) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+2. 💪 Opened PR [#9432](https://github.com/stdlib-js/stdlib/pull/9432) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
 3. 🗣 Commented on [#14045](https://github.com/meteor/meteor/pull/14045#issuecomment-3661491250) in [meteor/meteor](https://github.com/meteor/meteor)
 4. 🗣 Commented on [#13649](https://github.com/meteor/meteor/issues/13649#issuecomment-3661078875) in [meteor/meteor](https://github.com/meteor/meteor)
-5. 💪 Opened PR [#14058](undefined) in [meteor/meteor](https://github.com/meteor/meteor)
+5. 💪 Opened PR [#14058](https://github.com/meteor/meteor/pull/14058) in [meteor/meteor](https://github.com/meteor/meteor)
 <!--END_SECTION:activity-->
 
 ```console
