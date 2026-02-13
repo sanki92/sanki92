@@ -87,11 +87,11 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14114](https://github.com/meteor/meteor/pull/14114) in [meteor/meteor](https://github.com/meteor/meteor)
-2. 🎉 Merged PR [#11912](https://github.com/cBioPortal/cbioportal/pull/11912) in [cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)
-3. 🗣 Commented on [#11912](https://github.com/cBioPortal/cbioportal/pull/11912#issuecomment-3823568645) in [cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)
-4. 💪 Opened PR [#2187](https://github.com/adenhq/hive/pull/2187) in [adenhq/hive](https://github.com/adenhq/hive)
-5. 🗣 Commented on [#551](https://github.com/adenhq/hive/pull/551#issuecomment-3811787918) in [adenhq/hive](https://github.com/adenhq/hive)
+1. ❗ Opened issue [#2](https://github.com/meteor/GSoC-Google-Summer-of-Code/issues/2) in [meteor/GSoC-Google-Summer-of-Code](https://github.com/meteor/GSoC-Google-Summer-of-Code)
+2. 💪 Opened PR [#14114](https://github.com/meteor/meteor/pull/14114) in [meteor/meteor](https://github.com/meteor/meteor)
+3. 🎉 Merged PR [#11912](https://github.com/cBioPortal/cbioportal/pull/11912) in [cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)
+4. 🗣 Commented on [#11912](https://github.com/cBioPortal/cbioportal/pull/11912#issuecomment-3823568645) in [cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)
+5. 💪 Opened PR [#2187](https://github.com/adenhq/hive/pull/2187) in [adenhq/hive](https://github.com/adenhq/hive)
 <!--END_SECTION:activity-->
 
 ```console
