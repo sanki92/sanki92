@@ -87,11 +87,11 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/meteor/GSoC-Google-Summer-of-Code/issues/2) in [meteor/GSoC-Google-Summer-of-Code](https://github.com/meteor/GSoC-Google-Summer-of-Code)
-2. 💪 Opened PR [#14114](https://github.com/meteor/meteor/pull/14114) in [meteor/meteor](https://github.com/meteor/meteor)
-3. 🎉 Merged PR [#11912](https://github.com/cBioPortal/cbioportal/pull/11912) in [cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)
-4. 🗣 Commented on [#11912](https://github.com/cBioPortal/cbioportal/pull/11912#issuecomment-3823568645) in [cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)
-5. 💪 Opened PR [#2187](https://github.com/adenhq/hive/pull/2187) in [adenhq/hive](https://github.com/adenhq/hive)
+1. 🗣 Commented on [#2187](https://github.com/adenhq/hive/pull/2187#issuecomment-3906381651) in [adenhq/hive](https://github.com/adenhq/hive)
+2. 🗣 Commented on [#14033](https://github.com/meteor/meteor/issues/14033#issuecomment-3906376550) in [meteor/meteor](https://github.com/meteor/meteor)
+3. ❗ Opened issue [#2](https://github.com/meteor/GSoC-Google-Summer-of-Code/issues/2) in [meteor/GSoC-Google-Summer-of-Code](https://github.com/meteor/GSoC-Google-Summer-of-Code)
+4. 💪 Opened PR [#14114](https://github.com/meteor/meteor/pull/14114) in [meteor/meteor](https://github.com/meteor/meteor)
+5. 🎉 Merged PR [#11912](https://github.com/cBioPortal/cbioportal/pull/11912) in [cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)
 <!--END_SECTION:activity-->
 
 ```console
