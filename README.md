@@ -87,11 +87,11 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-4017005199) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
-2. 🎉 Merged PR [#85](https://github.com/dspinellis/cscout/pull/85) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
-3. 💪 Opened PR [#85](https://github.com/dspinellis/cscout/pull/85) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
-4. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-3998404016) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
-5. 🗣 Commented on [#14150](https://github.com/meteor/meteor/pull/14150#issuecomment-3992969609) in [meteor/meteor](https://github.com/meteor/meteor)
+1. 🚀 Published release [v0.1.0](https://github.com/sanki92/envsync/releases/tag/v0.1.0) in [sanki92/envsync](https://github.com/sanki92/envsync)
+2. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-4017005199) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
+3. 🎉 Merged PR [#85](https://github.com/dspinellis/cscout/pull/85) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
+4. 💪 Opened PR [#85](https://github.com/dspinellis/cscout/pull/85) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
+5. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-3998404016) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
 <!--END_SECTION:activity-->
 
 ```console
