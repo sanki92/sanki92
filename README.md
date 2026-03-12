@@ -87,7 +87,7 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/sanki92/envsync/releases/tag/v0.1.0) in [sanki92/envsync](https://github.com/sanki92/envsync)
+1. 🚀 Published release [v0.1.1](https://github.com/sanki92/envsync/releases/tag/v0.1.1) in [sanki92/envsync](https://github.com/sanki92/envsync)
 2. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-4017005199) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
 3. 🎉 Merged PR [#85](https://github.com/dspinellis/cscout/pull/85) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
 4. 💪 Opened PR [#85](https://github.com/dspinellis/cscout/pull/85) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
