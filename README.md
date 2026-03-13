@@ -87,11 +87,11 @@ sanki92@github:~$ git log --oneline -10
 ```
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.3](https://github.com/sanki92/envsync/releases/tag/v0.1.3) in [sanki92/envsync](https://github.com/sanki92/envsync)
-2. 🚀 Published release [v0.1.2](https://github.com/sanki92/envsync/releases/tag/v0.1.2) in [sanki92/envsync](https://github.com/sanki92/envsync)
-3. 🚀 Published release [v0.1.1](https://github.com/sanki92/envsync/releases/tag/v0.1.1) in [sanki92/envsync](https://github.com/sanki92/envsync)
-4. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-4017005199) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
-5. 🎉 Merged PR [#85](https://github.com/dspinellis/cscout/pull/85) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
+1. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-4056649262) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
+2. 🚀 Published release [v0.1.3](https://github.com/sanki92/envsync/releases/tag/v0.1.3) in [sanki92/envsync](https://github.com/sanki92/envsync)
+3. 🚀 Published release [v0.1.2](https://github.com/sanki92/envsync/releases/tag/v0.1.2) in [sanki92/envsync](https://github.com/sanki92/envsync)
+4. 🚀 Published release [v0.1.1](https://github.com/sanki92/envsync/releases/tag/v0.1.1) in [sanki92/envsync](https://github.com/sanki92/envsync)
+5. 🗣 Commented on [#82](https://github.com/dspinellis/cscout/issues/82#issuecomment-4017005199) in [dspinellis/cscout](https://github.com/dspinellis/cscout)
 <!--END_SECTION:activity-->
 
 ```console
