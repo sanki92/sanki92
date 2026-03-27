@@ -131,7 +131,7 @@ func fetchData() TemplateData {
 	if err := apiGet("/users/{username}", &user); err != nil {
 		return TemplateData{Failed: true}
 	}
-	if err := apiGet("/users/{username}/repos?sort=pushed&per_page=10&type=owner", &repos); err != nil {
+	if err := apiGet("/users/{username}/repos?sort=pushed&per_page=30&type=owner", &repos); err != nil {
 		return TemplateData{Failed: true}
 	}
 	_ = apiGet("/users/{username}/events/public?per_page=100", &events)
@@ -147,14 +147,14 @@ func fetchData() TemplateData {
 	xpLevel := int(now.Sub(created).Hours()/24/365.25) * 10
 
 	var totalStars, totalForks, totalSize, activeChunks int
-	langCount := map[string]int{}
+	langSize := map[string]int{}
 
 	for _, r := range repos {
 		totalStars += r.StargazersCount
 		totalForks += r.ForksCount
 		totalSize += r.Size
 		if r.Language != "" {
-			langCount[r.Language]++
+			langSize[r.Language] += r.Size
 		}
 		pushed, err := time.Parse(time.RFC3339, r.PushedAt)
 		if err == nil && now.Sub(pushed).Hours() < 30*24 {
@@ -168,20 +168,23 @@ func fetchData() TemplateData {
 	}
 
 	var langs []LangStat
-	totalLangs := 0
-	for _, c := range langCount {
-		totalLangs += c
+	totalLangSize := 0
+	for _, s := range langSize {
+		totalLangSize += s
 	}
-	for name, count := range langCount {
+	if totalLangSize == 0 {
+		totalLangSize = 1
+	}
+	for name, size := range langSize {
 		color := langColors[name]
 		if color == "" {
 			color = "#808080"
 		}
 		langs = append(langs, LangStat{
 			Name:    name,
-			Count:   count,
+			Count:   size,
 			Color:   color,
-			Percent: math.Round(float64(count) / float64(totalLangs) * 100),
+			Percent: math.Round(float64(size) / float64(totalLangSize) * 100),
 		})
 	}
 	sort.Slice(langs, func(i, j int) bool {
