@@ -69,8 +69,8 @@ text { font-family: 'Courier New', monospace; font-size: 12px; }
 
 
 <rect x="8" y="216" width="108" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
-<text x="11" y="228" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12">Following: 13</text>
-<text x="10" y="227" fill="#ffffff" font-family="'Courier New', monospace" font-size="12">Following: 13</text>
+<text x="11" y="228" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12">Following: 14</text>
+<text x="10" y="227" fill="#ffffff" font-family="'Courier New', monospace" font-size="12">Following: 14</text>
 
 
 <rect x="8" y="248" width="284" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
@@ -105,8 +105,8 @@ text { font-family: 'Courier New', monospace; font-size: 12px; }
 
 
 <rect x="676" y="24" width="172" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
-<text x="679" y="36" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 9% 1305/13351 KB</text>
-<text x="678" y="35" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 9% 1305/13351 KB</text>
+<text x="679" y="36" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 8% 1093/13031 KB</text>
+<text x="678" y="35" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 8% 1093/13031 KB</text>
 
 
 <rect x="676" y="40" width="172" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
