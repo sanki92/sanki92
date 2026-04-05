@@ -104,9 +104,9 @@ text { font-family: 'Courier New', monospace; font-size: 12px; }
 <text x="702" y="19" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Java: 21.0.3 64bit</text>
 
 
-<rect x="668" y="24" width="180" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
-<text x="671" y="36" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 10% 1336/13287 KB</text>
-<text x="670" y="35" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 10% 1336/13287 KB</text>
+<rect x="676" y="24" width="172" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
+<text x="679" y="36" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 9% 1207/13287 KB</text>
+<text x="678" y="35" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 9% 1207/13287 KB</text>
 
 
 <rect x="676" y="40" width="172" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
