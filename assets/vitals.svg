@@ -104,14 +104,14 @@ text { font-family: 'Courier New', monospace; font-size: 12px; }
 <text x="702" y="19" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Java: 21.0.3 64bit</text>
 
 
-<rect x="676" y="24" width="172" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
-<text x="679" y="36" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 9% 1271/12775 KB</text>
-<text x="678" y="35" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 9% 1271/12775 KB</text>
+<rect x="668" y="24" width="180" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
+<text x="671" y="36" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 26% 3254/12455 KB</text>
+<text x="670" y="35" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Mem: 26% 3254/12455 KB</text>
 
 
 <rect x="676" y="40" width="172" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
-<text x="679" y="52" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Allocated: 8143980 KB</text>
-<text x="678" y="51" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Allocated: 8143980 KB</text>
+<text x="679" y="52" fill="#3f3f3f" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Allocated: 8143983 KB</text>
+<text x="678" y="51" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="start">Allocated: 8143983 KB</text>
 
 
 <rect x="636" y="72" width="212" height="14" fill="#000000" opacity="0.6" rx="1" shape-rendering="crispEdges"/>
