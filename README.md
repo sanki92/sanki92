@@ -41,10 +41,10 @@ tooling, and I contribute upstream to the projects I depend on.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14426](https://github.com/meteor/meteor/pull/14426#issuecomment-4524370304) in [meteor/meteor](https://github.com/meteor/meteor)
-2. 💪 Opened PR [#14417](https://github.com/meteor/meteor/pull/14417) in [meteor/meteor](https://github.com/meteor/meteor)
-3. 💪 Opened PR [#14411](https://github.com/meteor/meteor/pull/14411) in [meteor/meteor](https://github.com/meteor/meteor)
-4. 🎉 Merged PR [#14394](https://github.com/meteor/meteor/pull/14394) in [meteor/meteor](https://github.com/meteor/meteor)
+1. 🗣 Commented on [#2505](https://github.com/archestra-ai/archestra/issues/2505#issuecomment-4609218534) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
+2. 🗣 Commented on [#14426](https://github.com/meteor/meteor/pull/14426#issuecomment-4524370304) in [meteor/meteor](https://github.com/meteor/meteor)
+3. 💪 Opened PR [#14417](https://github.com/meteor/meteor/pull/14417) in [meteor/meteor](https://github.com/meteor/meteor)
+4. 💪 Opened PR [#14411](https://github.com/meteor/meteor/pull/14411) in [meteor/meteor](https://github.com/meteor/meteor)
 5. 💪 Opened PR [#14394](https://github.com/meteor/meteor/pull/14394) in [meteor/meteor](https://github.com/meteor/meteor)
 <!--END_SECTION:activity-->
 
