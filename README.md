@@ -41,7 +41,7 @@ tooling, and I contribute upstream to the projects I depend on.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6443](https://github.com/fineanmol/Hacktoberfest2025/pull/6443) in [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025)
+1. 🎉 Merged PR [#6443](https://github.com/fineanmol/Hacktoberfest2026/pull/6443) in [fineanmol/Hacktoberfest2026](https://github.com/fineanmol/Hacktoberfest2026)
 2. 🎉 Merged PR [#14417](https://github.com/meteor/meteor/pull/14417) in [meteor/meteor](https://github.com/meteor/meteor)
 3. 🗣 Commented on [#2505](https://github.com/archestra-ai/archestra/issues/2505#issuecomment-4609218534) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
 4. 🗣 Commented on [#14426](https://github.com/meteor/meteor/pull/14426#issuecomment-4524370304) in [meteor/meteor](https://github.com/meteor/meteor)
