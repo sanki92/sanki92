@@ -36,6 +36,14 @@ tooling, and I contribute upstream to the projects I depend on.
 
 </div>
 
+## Badges
+
+<div align="center">
+
+<a href="https://holopin.io/@sanki92"><img src="https://holopin.me/sanki92" alt="Holopin badge board for @sanki92" /></a>
+
+</div>
+
 ## Recent activity
 
 <!--START_SECTION:activity-->
