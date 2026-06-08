@@ -32,7 +32,10 @@ tooling, and I contribute upstream to the projects I depend on.
 
 <div align="center">
 
-![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanki92&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent)
+![Sankalp's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanki92&theme=github_dark)
+
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanki92&theme=github_dark)
+![Commit stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanki92&theme=github_dark)
 
 </div>
 
