@@ -50,11 +50,11 @@ tooling, and I contribute upstream to the projects I depend on.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14459](https://github.com/meteor/meteor/pull/14459) in [meteor/meteor](https://github.com/meteor/meteor)
-2. 💪 Opened PR [#14458](https://github.com/meteor/meteor/pull/14458) in [meteor/meteor](https://github.com/meteor/meteor)
-3. 💪 Opened PR [#14447](https://github.com/meteor/meteor/pull/14447) in [meteor/meteor](https://github.com/meteor/meteor)
-4. 🎉 Merged PR [#6443](https://github.com/fineanmol/Hacktoberfest2026/pull/6443) in [fineanmol/Hacktoberfest2026](https://github.com/fineanmol/Hacktoberfest2026)
-5. 🎉 Merged PR [#14417](https://github.com/meteor/meteor/pull/14417) in [meteor/meteor](https://github.com/meteor/meteor)
+1. ❗ Opened issue [#5534](https://github.com/archestra-ai/archestra/issues/5534) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
+2. 💪 Opened PR [#14459](https://github.com/meteor/meteor/pull/14459) in [meteor/meteor](https://github.com/meteor/meteor)
+3. 💪 Opened PR [#14458](https://github.com/meteor/meteor/pull/14458) in [meteor/meteor](https://github.com/meteor/meteor)
+4. 💪 Opened PR [#14447](https://github.com/meteor/meteor/pull/14447) in [meteor/meteor](https://github.com/meteor/meteor)
+5. 🎉 Merged PR [#6443](https://github.com/fineanmol/Hacktoberfest2026/pull/6443) in [fineanmol/Hacktoberfest2026](https://github.com/fineanmol/Hacktoberfest2026)
 <!--END_SECTION:activity-->
 
 ## Contact
