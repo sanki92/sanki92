@@ -50,11 +50,11 @@ tooling, and I contribute upstream to the projects I depend on.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14463](https://github.com/meteor/meteor/pull/14463) in [meteor/meteor](https://github.com/meteor/meteor)
-2. 💪 Opened PR [#14462](https://github.com/meteor/meteor/pull/14462) in [meteor/meteor](https://github.com/meteor/meteor)
-3. 💪 Opened PR [#5581](https://github.com/archestra-ai/archestra/pull/5581) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
-4. ❗ Opened issue [#5580](https://github.com/archestra-ai/archestra/issues/5580) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
-5. ❗ Opened issue [#5534](https://github.com/archestra-ai/archestra/issues/5534) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
+1. 🎉 Merged PR [#14463](https://github.com/meteor/meteor/pull/14463) in [meteor/meteor](https://github.com/meteor/meteor)
+2. 💪 Opened PR [#14463](https://github.com/meteor/meteor/pull/14463) in [meteor/meteor](https://github.com/meteor/meteor)
+3. 💪 Opened PR [#14462](https://github.com/meteor/meteor/pull/14462) in [meteor/meteor](https://github.com/meteor/meteor)
+4. 💪 Opened PR [#5581](https://github.com/archestra-ai/archestra/pull/5581) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
+5. ❗ Opened issue [#5580](https://github.com/archestra-ai/archestra/issues/5580) in [archestra-ai/archestra](https://github.com/archestra-ai/archestra)
 <!--END_SECTION:activity-->
 
 ## Contact
