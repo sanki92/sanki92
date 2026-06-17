@@ -50,11 +50,11 @@ tooling, and I contribute upstream to the projects I depend on.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14447](https://github.com/meteor/meteor/pull/14447) in [meteor/meteor](https://github.com/meteor/meteor)
-2. 🎉 Merged PR [#14462](https://github.com/meteor/meteor/pull/14462) in [meteor/meteor](https://github.com/meteor/meteor)
-3. 🎉 Merged PR [#14463](https://github.com/meteor/meteor/pull/14463) in [meteor/meteor](https://github.com/meteor/meteor)
-4. 💪 Opened PR [#14463](https://github.com/meteor/meteor/pull/14463) in [meteor/meteor](https://github.com/meteor/meteor)
-5. 💪 Opened PR [#14462](https://github.com/meteor/meteor/pull/14462) in [meteor/meteor](https://github.com/meteor/meteor)
+1. 🎉 Merged PR [#14459](https://github.com/meteor/meteor/pull/14459) in [meteor/meteor](https://github.com/meteor/meteor)
+2. 🎉 Merged PR [#14458](https://github.com/meteor/meteor/pull/14458) in [meteor/meteor](https://github.com/meteor/meteor)
+3. 🎉 Merged PR [#14447](https://github.com/meteor/meteor/pull/14447) in [meteor/meteor](https://github.com/meteor/meteor)
+4. 🎉 Merged PR [#14462](https://github.com/meteor/meteor/pull/14462) in [meteor/meteor](https://github.com/meteor/meteor)
+5. 🎉 Merged PR [#14463](https://github.com/meteor/meteor/pull/14463) in [meteor/meteor](https://github.com/meteor/meteor)
 <!--END_SECTION:activity-->
 
 ## Contact
