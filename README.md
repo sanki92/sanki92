@@ -50,7 +50,7 @@ tooling, and I contribute upstream to the projects I depend on.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/arjunmanvi13-max/client-app-backend/pull/2) in [arjunmanvi13-max/client-app-backend](https://github.com/arjunmanvi13-max/client-app-backend)
+1. 🗣 Commented on [#24](https://github.com/cBioPortal/relicensing/issues/24#issuecomment-6427116987) in [cBioPortal/relicensing](https://github.com/cBioPortal/relicensing)
 2. 💪 Opened PR [#2](https://github.com/arjunmanvi13-max/client-app-backend/pull/2) in [arjunmanvi13-max/client-app-backend](https://github.com/arjunmanvi13-max/client-app-backend)
 3. 🎉 Merged PR [#1](https://github.com/arjunmanvi13-max/client-app-backend/pull/1) in [arjunmanvi13-max/client-app-backend](https://github.com/arjunmanvi13-max/client-app-backend)
 4. 🎉 Merged PR [#4](https://github.com/arjunmanvi13-max/client-app/pull/4) in [arjunmanvi13-max/client-app](https://github.com/arjunmanvi13-max/client-app)
