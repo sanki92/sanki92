@@ -50,10 +50,10 @@ tooling, and I contribute upstream to the projects I depend on.
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned PR [#14975](https://github.com/meteor/meteor/pull/14975) in [meteor/meteor](https://github.com/meteor/meteor)
-2. ℹ️ Assigned PR [#14975](https://github.com/meteor/meteor/pull/14975) in [meteor/meteor](https://github.com/meteor/meteor)
-3. 🗣 Commented on [#24](https://github.com/cBioPortal/relicensing/issues/24#issuecomment-6427116987) in [cBioPortal/relicensing](https://github.com/cBioPortal/relicensing)
-4. 🎉 Merged PR [#4](https://github.com/arjunmanvi13-max/client-app/pull/4) in [arjunmanvi13-max/client-app](https://github.com/arjunmanvi13-max/client-app)
+1. 🗣 Commented on [#14975](https://github.com/meteor/meteor/pull/14975#issuecomment-6787680984) in [meteor/meteor](https://github.com/meteor/meteor)
+2. ℹ️ Unassigned PR [#14975](https://github.com/meteor/meteor/pull/14975) in [meteor/meteor](https://github.com/meteor/meteor)
+3. ℹ️ Assigned PR [#14975](https://github.com/meteor/meteor/pull/14975) in [meteor/meteor](https://github.com/meteor/meteor)
+4. 🗣 Commented on [#24](https://github.com/cBioPortal/relicensing/issues/24#issuecomment-6427116987) in [cBioPortal/relicensing](https://github.com/cBioPortal/relicensing)
 5. 💪 Opened PR [#1](https://github.com/arjunmanvi13-max/client-app-backend/pull/1) in [arjunmanvi13-max/client-app-backend](https://github.com/arjunmanvi13-max/client-app-backend)
 <!--END_SECTION:activity-->
 
